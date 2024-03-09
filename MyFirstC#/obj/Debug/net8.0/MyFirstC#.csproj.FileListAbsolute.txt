@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\c#\MyFirstC#\bin\Debug\net8.0\MyFirstC#.exe
+C:\Users\danie\Documents\c#\MyFirstC#\bin\Debug\net8.0\MyFirstC#.deps.json
+C:\Users\danie\Documents\c#\MyFirstC#\bin\Debug\net8.0\MyFirstC#.runtimeconfig.json
+C:\Users\danie\Documents\c#\MyFirstC#\bin\Debug\net8.0\MyFirstC#.dll
+C:\Users\danie\Documents\c#\MyFirstC#\bin\Debug\net8.0\MyFirstC#.pdb
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.AssemblyInfo.cs
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.dll
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\refint\MyFirstC#.dll
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.pdb
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\MyFirstC#.genruntimeconfig.cache
+C:\Users\danie\Documents\c#\MyFirstC#\obj\Debug\net8.0\ref\MyFirstC#.dll
